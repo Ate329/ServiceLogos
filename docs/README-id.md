@@ -146,4 +146,8 @@ Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada orang-orang yan
 
 <!-- image-list: end -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
+
 Jika terdapat ketidakkonsistenan dalam README masing-masing bahasa, maka README bahasa Jepang yang akan diutamakan.
