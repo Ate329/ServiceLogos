@@ -150,4 +150,8 @@ Nous tenons à exprimer notre profonde gratitude aux personnes qui ont particip�
 
 <!-- image-list: end -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SAWARATSUKI/ServiceLogos&type=Date)](https://star-history.com/#SAWARATSUKI/ServiceLogos&Date)
+
 En cas d'incohérence dans le README de chaque langue, le README japonais aura la priorité.
